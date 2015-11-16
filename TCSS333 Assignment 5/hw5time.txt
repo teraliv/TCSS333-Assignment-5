@@ -1,0 +1,33 @@
+Customer: Smith
+       Orders: 
+               Sweater        3        22.50     67.50
+               Microwave      1       230.00    230.00
+               Candle         10        3.50     35.00
+                                      Total:    332.50
+
+Customer: Reich
+       Orders: 
+               Umbrella       3        12.50     37.50
+                                      Total:     37.50
+
+Customer: Lazlo
+       Orders: 
+               Mirror         1        60.00     60.00
+               Fridge         1      1200.00   1200.00
+               Vase           3        40.00    120.00
+                                      Total:   1380.00
+
+Customer: Flintstone
+       Orders: 
+               Plate          5        10.00     50.00
+               Bowl           5         7.00     35.00
+                                      Total:     85.00
+
+Customer: Stevenson
+       Orders: 
+               Chair          2       350.00    700.00
+               Table          1       500.00    500.00
+               Clock          2        30.00     60.00
+               Couch          1       800.00    800.00
+                                      Total:   2060.00
+
